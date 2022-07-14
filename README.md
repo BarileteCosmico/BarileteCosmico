@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BarileteCosmico
+- 👋 Hi, I’m Alan
 - 👀 I’m interested in music, languages, and learning new stuff
 - 🌱 I’m currently learning Data Analysis with Python
 - 💞️ I’m looking to collaborate on anything that will help me to learn! 
